@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - QuadraticEq",
+            "request": "launch",
+            "mainClass": "QuadraticEq"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Comparisons",
             "request": "launch",
             "mainClass": "Comparisons"
