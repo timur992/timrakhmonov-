@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Comparisons",
+            "request": "launch",
+            "mainClass": "Comparisons"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Review1",
+            "request": "launch",
+            "mainClass": "Review1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Review",
+            "request": "launch",
+            "mainClass": "Review"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringManipulation",
+            "request": "launch",
+            "mainClass": "StringManipulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Palindrome2",
+            "request": "launch",
+            "mainClass": "Palindrome2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConDifType",
+            "request": "launch",
+            "mainClass": "ConDifType"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Variables",
+            "request": "launch",
+            "mainClass": "Variables"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex1",
+            "request": "launch",
+            "mainClass": "Ex1"
+        }
+    ]
+}
